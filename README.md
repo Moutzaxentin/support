@@ -19,6 +19,7 @@ I'm a business owner. How can I collaborate with UniBee?
 Please get in touch with us through partners@uni-bee.gr
 
 Contact Information
+
 For any further queries or support, feel free to reach us at:
 Email: support@uni-bee.gr
 
