@@ -1,7 +1,9 @@
 UniBee Support Page
+
 Welcome to the support page of UniBee, the ultimate student app that brings local discounts, job offers, upcoming events, and giveaways right to your fingertips!
 
 Features
+
 Local Discounts: Exclusive discounts in your local shops that only UniBee can provide.
 Job Offers: Stay ahead of your career by finding the latest student-relevant job offers.
 Upcoming Events: Never miss out on important events, whether it's a seminar, party, or college fest.
