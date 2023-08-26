@@ -1,27 +1,21 @@
-UniBee Support Page
 
-Welcome to the support page of UniBee, the ultimate student app that brings local discounts, job offers, upcoming events, and giveaways right to your fingertips!
+Καλώς ήρθατε στη σελίδα υποστήριξης του UniBee, της απόλυτης φοιτητικής εφαρμογής που φέρνει τοπικές εκπτώσεις, προσφορές εργασίας, επερχόμενες εκδηλώσεις και δώρα στα χέρια σας!
 
-Features
+Χαρακτηριστικά
 
-Local Discounts: Exclusive discounts in your local shops that only UniBee can provide.
-Job Offers: Stay ahead of your career by finding the latest student-relevant job offers.
-Upcoming Events: Never miss out on important events, whether it's a seminar, party, or college fest.
-Giveaways: Participate and win in our regular giveaways exclusive to UniBee users.
+Τοπικές εκπτώσεις: Αποκλειστικές εκπτώσεις στα τοπικά σας καταστήματα που μόνο το UniBee μπορεί να σας προσφέρει. Προσφορές εργασίας: Μείνετε μπροστά στην καριέρα σας, βρίσκοντας τις τελευταίες προσφορές εργασίας που αφορούν τους φοιτητές. Επόμενες εκδηλώσεις: Μην χάνετε ποτέ σημαντικές εκδηλώσεις, είτε πρόκειται για σεμινάριο, είτε για πάρτι, είτε για κολεγιακή γιορτή. Δώρα: Συμμετέχετε και κερδίστε στα τακτικά μας δώρα αποκλειστικά για τους χρήστες του UniBee.
 
-Frequently Asked Questions (FAQs)
+Συχνές ερωτήσεις (FAQ)
 
-Where can I find job offers?
-Go to the "Jobs" section of the app to find current job offers suitable for students.
+Πού μπορώ να βρω προσφορές εργασίας Μεταβείτε στην ενότητα "Θέσεις εργασίας" της εφαρμογής για να βρείτε τρέχουσες προσφορές εργασίας κατάλληλες για φοιτητές.
 
-How do I participate in giveaways?
-You can find all ongoing giveaways in the "Trending" section. Follow the instructions there to participate.
+Πώς μπορώ να συμμετέχω σε δώρα Μπορείτε να βρείτε όλα τα τρέχοντα δώρα στην ενότητα "Trending". Ακολουθήστε τις οδηγίες εκεί για να συμμετάσχετε.
 
-I'm a business owner. How can I collaborate with UniBee?
-Please get in touch with us through partners@uni-bee.gr
+Είμαι ιδιοκτήτης επιχείρησης. Πώς μπορώ να συνεργαστώ με το UniBee Επικοινωνήστε μαζί μας μέσω του partners@uni-bee. gr
 
-Contact Information
+Στοιχεία επικοινωνίας
 
 For any further queries or support, feel free to reach us at:
+
 Email: support@uni-bee.gr
 
